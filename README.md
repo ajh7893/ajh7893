@@ -11,9 +11,11 @@
 </p>
 
 
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajh7893)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajh7893" alt="Top Langs" />
+  </a>
+</p>
 
 <!--
 **ajh7893/ajh7893** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
