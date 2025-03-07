@@ -6,7 +6,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 -->
 
-![Image](https://github.com/user-attachments/assets/b161943d-1b6a-400f-b189-b124bf5cc059)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b161943d-1b6a-400f-b189-b124bf5cc059" alt="Image" />
+</p>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajh7893)](https://github.com/anuraghazra/github-readme-stats)
 
