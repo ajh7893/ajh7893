@@ -7,7 +7,7 @@
 -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d071cbe9-9a7d-4529-8225-45fa7de4dd5a" alt="Image" />
+  <img src="./fire.png" alt="Image" />
 </p>
 
 
